@@ -3,7 +3,7 @@ import "./App.css";
 import Home from "./containers/Home/Home";
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import ContactUs from "./containers/Contact Us/ContactUs";
 import Post from "./containers/Post/Post";
 
