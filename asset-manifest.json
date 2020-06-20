@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-blog-app.git/static/css/main.5391fe9d.chunk.css",
-    "main.js": "/react-blog-app.git/static/js/main.739d9792.chunk.js",
-    "main.js.map": "/react-blog-app.git/static/js/main.739d9792.chunk.js.map",
+    "main.js": "/react-blog-app.git/static/js/main.1054a2ac.chunk.js",
+    "main.js.map": "/react-blog-app.git/static/js/main.1054a2ac.chunk.js.map",
     "runtime-main.js": "/react-blog-app.git/static/js/runtime-main.00ea99f5.js",
     "runtime-main.js.map": "/react-blog-app.git/static/js/runtime-main.00ea99f5.js.map",
-    "static/js/2.8b12436a.chunk.js": "/react-blog-app.git/static/js/2.8b12436a.chunk.js",
-    "static/js/2.8b12436a.chunk.js.map": "/react-blog-app.git/static/js/2.8b12436a.chunk.js.map",
+    "static/js/2.8790d896.chunk.js": "/react-blog-app.git/static/js/2.8790d896.chunk.js",
+    "static/js/2.8790d896.chunk.js.map": "/react-blog-app.git/static/js/2.8790d896.chunk.js.map",
     "index.html": "/react-blog-app.git/index.html",
-    "precache-manifest.9ef62a51f45c68d55486c8ea2904efe1.js": "/react-blog-app.git/precache-manifest.9ef62a51f45c68d55486c8ea2904efe1.js",
+    "precache-manifest.65d84825b8565c83fc96c7ee75a60e71.js": "/react-blog-app.git/precache-manifest.65d84825b8565c83fc96c7ee75a60e71.js",
     "service-worker.js": "/react-blog-app.git/service-worker.js",
     "static/css/main.5391fe9d.chunk.css.map": "/react-blog-app.git/static/css/main.5391fe9d.chunk.css.map",
-    "static/js/2.8b12436a.chunk.js.LICENSE.txt": "/react-blog-app.git/static/js/2.8b12436a.chunk.js.LICENSE.txt",
+    "static/js/2.8790d896.chunk.js.LICENSE.txt": "/react-blog-app.git/static/js/2.8790d896.chunk.js.LICENSE.txt",
     "static/media/affection-baby-baby-girl-beautiful-377058.jpg": "/react-blog-app.git/static/media/affection-baby-baby-girl-beautiful-377058.80961a00.jpg",
     "static/media/beautiful-&-simple.jpg": "/react-blog-app.git/static/media/beautiful-&-simple.4218ad92.jpg",
     "static/media/cestovat-chladny-dno-jednoduchost-2868847.jpg": "/react-blog-app.git/static/media/cestovat-chladny-dno-jednoduchost-2868847.a67df138.jpg",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.00ea99f5.js",
-    "static/js/2.8b12436a.chunk.js",
+    "static/js/2.8790d896.chunk.js",
     "static/css/main.5391fe9d.chunk.css",
-    "static/js/main.739d9792.chunk.js"
+    "static/js/main.1054a2ac.chunk.js"
   ]
 }
