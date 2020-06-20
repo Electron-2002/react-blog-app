@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-blog-app.git/static/css/main.5391fe9d.chunk.css",
-    "main.js": "/react-blog-app.git/static/js/main.59ab359a.chunk.js",
-    "main.js.map": "/react-blog-app.git/static/js/main.59ab359a.chunk.js.map",
-    "runtime-main.js": "/react-blog-app.git/static/js/runtime-main.00ea99f5.js",
-    "runtime-main.js.map": "/react-blog-app.git/static/js/runtime-main.00ea99f5.js.map",
-    "static/js/2.8790d896.chunk.js": "/react-blog-app.git/static/js/2.8790d896.chunk.js",
-    "static/js/2.8790d896.chunk.js.map": "/react-blog-app.git/static/js/2.8790d896.chunk.js.map",
-    "index.html": "/react-blog-app.git/index.html",
-    "precache-manifest.298284fa481aa3c61da079a3586256d9.js": "/react-blog-app.git/precache-manifest.298284fa481aa3c61da079a3586256d9.js",
-    "service-worker.js": "/react-blog-app.git/service-worker.js",
-    "static/css/main.5391fe9d.chunk.css.map": "/react-blog-app.git/static/css/main.5391fe9d.chunk.css.map",
-    "static/js/2.8790d896.chunk.js.LICENSE.txt": "/react-blog-app.git/static/js/2.8790d896.chunk.js.LICENSE.txt",
-    "static/media/affection-baby-baby-girl-beautiful-377058.jpg": "/react-blog-app.git/static/media/affection-baby-baby-girl-beautiful-377058.80961a00.jpg",
-    "static/media/beautiful-&-simple.jpg": "/react-blog-app.git/static/media/beautiful-&-simple.4218ad92.jpg",
-    "static/media/cestovat-chladny-dno-jednoduchost-2868847.jpg": "/react-blog-app.git/static/media/cestovat-chladny-dno-jednoduchost-2868847.a67df138.jpg",
-    "static/media/fitness-blog-post.jpg": "/react-blog-app.git/static/media/fitness-blog-post.45c60c8a.jpg",
-    "static/media/memories-from.jpg": "/react-blog-app.git/static/media/memories-from.13ad316b.jpg"
+    "main.css": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/css/main.5391fe9d.chunk.css",
+    "main.js": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/js/main.11c89749.chunk.js",
+    "main.js.map": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/js/main.11c89749.chunk.js.map",
+    "runtime-main.js": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/js/runtime-main.e0695ab6.js",
+    "runtime-main.js.map": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/js/runtime-main.e0695ab6.js.map",
+    "static/js/2.8790d896.chunk.js": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/js/2.8790d896.chunk.js",
+    "static/js/2.8790d896.chunk.js.map": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/js/2.8790d896.chunk.js.map",
+    "index.html": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/index.html",
+    "precache-manifest.367b2a78c4b711747ee47193f59909c7.js": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/precache-manifest.367b2a78c4b711747ee47193f59909c7.js",
+    "service-worker.js": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/service-worker.js",
+    "static/css/main.5391fe9d.chunk.css.map": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/css/main.5391fe9d.chunk.css.map",
+    "static/js/2.8790d896.chunk.js.LICENSE.txt": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/js/2.8790d896.chunk.js.LICENSE.txt",
+    "static/media/affection-baby-baby-girl-beautiful-377058.jpg": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/media/affection-baby-baby-girl-beautiful-377058.80961a00.jpg",
+    "static/media/beautiful-&-simple.jpg": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/media/beautiful-&-simple.4218ad92.jpg",
+    "static/media/cestovat-chladny-dno-jednoduchost-2868847.jpg": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/media/cestovat-chladny-dno-jednoduchost-2868847.a67df138.jpg",
+    "static/media/fitness-blog-post.jpg": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/media/fitness-blog-post.45c60c8a.jpg",
+    "static/media/memories-from.jpg": "/Electron-2002/Electron-2002.github.io/react-blog-app.git/static/media/memories-from.13ad316b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.00ea99f5.js",
+    "static/js/runtime-main.e0695ab6.js",
     "static/js/2.8790d896.chunk.js",
     "static/css/main.5391fe9d.chunk.css",
-    "static/js/main.59ab359a.chunk.js"
+    "static/js/main.11c89749.chunk.js"
   ]
 }
